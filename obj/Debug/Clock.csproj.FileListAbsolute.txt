@@ -1,0 +1,42 @@
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\bin\Debug\Clock.exe.config
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\bin\Debug\Clock.exe
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\bin\Debug\Clock.pdb
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.Form1.resources
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.exe
+c:\users\sergey\documents\visual studio 2013\Projects\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+C:\Users\sergey\Documents\Visual Studio 2015\Projects\Clock\Clock\Clock\obj\Debug\Clock.Form2.resources
+C:\Users\sergey\Documents\Visual Studio 2013\Projects\Clock\Clock\obj\Debug\Clock.Form2.resources
+C:\Users\TSG\source\repos\Clock\bin\Debug\Clock.exe.config
+C:\Users\TSG\source\repos\Clock\bin\Debug\Clock.exe
+C:\Users\TSG\source\repos\Clock\bin\Debug\Clock.pdb
+C:\Users\TSG\source\repos\Clock\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\TSG\source\repos\Clock\obj\Debug\Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\TSG\source\repos\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\TSG\source\repos\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\TSG\source\repos\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\TSG\source\repos\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\TSG\source\repos\Clock\obj\Debug\Clock.exe
+C:\Users\TSG\source\repos\Clock\obj\Debug\Clock.pdb
+C:\Users\TSG\source\repos\AC3\bin\Debug\Clock.exe.config
+C:\Users\TSG\source\repos\AC3\bin\Debug\Clock.exe
+C:\Users\TSG\source\repos\AC3\bin\Debug\Clock.pdb
+C:\Users\TSG\source\repos\AC3\obj\Debug\Clock.csproj.AssemblyReference.cache
+C:\Users\TSG\source\repos\AC3\obj\Debug\Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\TSG\source\repos\AC3\obj\Debug\Clock.Form1.resources
+C:\Users\TSG\source\repos\AC3\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\TSG\source\repos\AC3\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\TSG\source\repos\AC3\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\TSG\source\repos\AC3\obj\Debug\Clock.exe
+C:\Users\TSG\source\repos\AC3\obj\Debug\Clock.pdb
